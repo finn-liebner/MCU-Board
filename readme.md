@@ -4,8 +4,6 @@
 
 Einfaches Breakout-Board für ein ESP32-NodeMCU mit einem 5V-Step-Down-Converter.
 
-## Schaltplan
-
 [Schaltplan](./MCU-Board-v1.pdf)
 
 [Datenblatt LM2678](https://www.ti.com/lit/ds/symlink/lm2678.pdf)
